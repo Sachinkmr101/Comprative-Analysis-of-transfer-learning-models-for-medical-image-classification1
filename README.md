@@ -3,3 +3,13 @@ Medical image classification plays a vital role in modern healthcare for the ear
 This study presents a comparative analysis of transfer learning models for medical image classification, focusing on the performance evaluation of widely used architectures such as ResNet50, VGG16, and DenseNet121. The models are compared using important evaluation metrics including accuracy, precision, recall, F1-score. Study the role of transfer learning in overcoming data scarcity, reducing training complexity, and improving classification performance across different medical datasets.
 Furthermore, the study highlights the importance of transfer learning models, data augmentation, and Artificial Intelligence in improving medical image classification. It also addresses challenges such as limited datasets, model interpretability, and clinical implementation. The findings help in selecting accurate, efficient, and scalable models for intelligent healthcare diagnostic systems.
 Convolutional neural networks, Transfer learning models, medical image analysis, machine learning, deep learning, image analysis.
+
+Datasets:-
+Chest
+https://nihcc.app.box.com/v/ChestXray-NIHCC?utm 
+
+Brain Tomur- 
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset 
+
+Data Source Link –
+https://github.com/Sachinkmr101/Comprative-Analysis-of-transfer-learning-models-for-medical-image-classification1 
